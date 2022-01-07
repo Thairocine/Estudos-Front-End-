@@ -1,0 +1,54 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+   	<title>Página Tabela</title>
+   	<meta charset="utf-8"/> 
+
+   </head>
+
+
+   <body> 
+      
+      <h1> Produtos </h1> 
+
+      <table border = "1" width="35%"> 
+         <tr> 
+            <td> Código </td>
+            <td> Produto </td>
+            <td> Preço </td>
+         </tr>
+
+          <tr> 
+            <td> 00022 </td>
+            <td> Notebook </td>
+            <td> R$ 2000 </td>
+            <br>
+         </tr>
+
+
+         <tr> 
+            <td colspan="2"> Total </td>
+            <td> R$ 2000 </td> 
+         </tr>
+
+         <tr> 
+            <td colspan="2"> Desconto 1 </td>
+            <td> Cupom1: -R$ 10 </td> 
+         </tr>
+
+           <tr> 
+            <td colspan="2"> Desconto 2</td>
+            <td> Cupom1: -R$ 25 </td> 
+         </tr>
+
+
+      </table> 
+
+   </body> 
+
+
+ </html> 

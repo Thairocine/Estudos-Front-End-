@@ -1,0 +1,28 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+   	<title>Página Fotos</title>
+   	<meta charset="utf-8"/> 
+
+   </head>
+
+
+   <body> 
+      <h1> Meu gatinho </h1> 
+   		<img src = "C:\Users\Thais\Desktop\Estudos Virtus\gatos.jpg" /> 
+      <h1> Cursos da UFCG </h1>
+         <img src = "https://uemg.br/images/cursos/medicina.jpg" width="200" height="150" />
+         <img src = "http://vempraufcg.cc/images/logo-.png" width="200" height="150" />
+
+
+      <br> 
+      <a href = "http://vempraufcg.cc"> Clique aqui para mais informações </a>
+
+   </body> 
+
+
+ </html> 

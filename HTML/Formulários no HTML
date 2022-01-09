@@ -1,0 +1,48 @@
+<! doctype html> 
+<html> 
+   <head> 
+   	<title> Meu site</title> 
+   	<meta charset = "utf-8"/>
+    </head>
+
+    <body>
+    	<h1> Formulários </h1>
+        <form> 
+            Login:<br> 
+            <input type = "text"/> <br>
+            Senha: <br> 
+            <input type = "password"/> <br> <br>
+            <input type = "button" value = "Entrar"/> 
+            <br>
+        </form> 
+        <form> 
+            <h1> Cadastre-se </h1><br> 
+                Nome Completo: <br> 
+                <input type = "text"/> <br> 
+                Data de nascimento: <br> 
+                <input type = "text"/> <br> 
+                Cidade Natal: <br>
+                <input type = "text"/> <br> 
+                Sexo: <br />
+                <input type = "radio" name = "sexo"/> Masculino <br />
+                <input type = "radio" name = "sexo"/> Feminino <br /> 
+                <input type = "radio" name = "sexo"/> Outro <br />
+                <input type = "radio" name= "sexo"/> Prefiro não informar <br /> <br>
+                
+                Interesses: <br /> 
+                <input type = "checkbox"> Futebol <br/>
+                <input type = "checkbox"> Cursos <br/> 
+                <input type = "checkbox"> Eletrônicos <br/> 
+
+                Estado:<br /> 
+                <select> 
+                    <option>SP</option> 
+                    <option>RJ</option> 
+                    <option>PB</option> 
+                    <option>PE</option> 
+                </select>
+        </form>
+    </body>
+
+    
+</html> 

@@ -1,0 +1,28 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+   	<title>Página contato</title>
+   	<meta charset="utf-8"/> 
+
+   </head>
+
+
+   <body> 
+
+   		<h1> Listas ordenadas </h1>
+
+   		<ol>
+   			<li> Comida favorita? </li> 
+            <li> Esporte favorito? </li>
+            <li> Jogo favorito? </li>
+            <li> Roupa favorita? </li>
+   		</ol>
+
+   </body> 
+
+
+ </html> 

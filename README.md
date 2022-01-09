@@ -22,7 +22,8 @@ Repositório feito para deixar gravado os estudos feitos em HTML e CSS.
 - Seletores 
 - Divs
 - Spans
-
+- Fontes
+- Cores
 
 
 

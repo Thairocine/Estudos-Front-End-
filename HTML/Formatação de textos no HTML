@@ -1,0 +1,30 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+   	<title>Formatar textos </title>
+   	<meta charset="utf-8"/> 
+
+   </head>
+
+
+   <body> 
+
+   		 <h1> Formatar textos </h1> 
+
+         Esse é um texto <b> negrito </b> 
+         <br>  
+         Esse texto é em<em> itálico</em>
+         <br> 
+         Esse texto é com <u> underline </u> 
+         <br> 
+         Esse texto é um texto <strike> errado </strike> 
+
+
+   </body> 
+
+
+ </html> 

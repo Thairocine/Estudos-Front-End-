@@ -1,0 +1,40 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+    <title>Home</title>
+    <meta charset="utf-8"/> 
+
+            <style type ="text/css">
+
+               div {
+                  border-color: red pink blue yellow; 
+                  border-width: 10px 8px 6px 4px;
+                  border-style: solid dotted dashed solid;
+               }
+
+
+
+           
+      </style>
+
+   </head>
+
+      <div> 
+         oi gatos
+      </div>
+
+
+   <body> 
+
+
+
+         
+
+   </body> 
+
+
+ </html> 

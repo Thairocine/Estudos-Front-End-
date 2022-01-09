@@ -25,6 +25,11 @@ Repositório feito para deixar gravado os estudos feitos em HTML e CSS.
 - Fontes
 - Cores
 
+# Contribuintes do repositório 
+
+- Thaís Denise
+- Vandressa Galdino 
+
 
 
  

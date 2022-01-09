@@ -1,0 +1,53 @@
+<!doctype html> 
+
+<html>
+
+
+   <head> 
+
+    <title>Divs</title>
+    <meta charset="utf-8"/> 
+
+            <style type ="text/css">
+               #menu {
+                  background-color: blue;
+               }
+
+                #conteudo {
+                  background-color: pink;
+               }
+
+
+             </style>
+
+
+
+   </head>
+
+
+   <body>   
+
+      <div id = "menu"> 
+         Home | Quem Somos | Contato 
+      </div>
+
+
+
+      <div id = "conteudo"> 
+         <h1> Conteudos do site </h1> 
+         Conteudos do site bem importantes
+      </div>
+
+
+
+
+
+
+
+      
+   
+
+   </body> 
+
+
+ </html> 

@@ -20,6 +20,8 @@ Repositório feito para deixar gravado os estudos feitos em HTML e CSS.
 # CSS ( Cascading Style Sheets) 
 
 - Seletores 
+- Divs
+- Spans
 
 
 

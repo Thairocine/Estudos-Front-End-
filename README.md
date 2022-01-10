@@ -7,7 +7,7 @@ Repositório feito para deixar gravado os estudos feitos em HTML e CSS.
 
 
 
-  <a href="url"><img src="https://i.pinimg.com/originals/56/dd/4d/56dd4dc9c44936865315a59190c41cf1.jpg"></a>
+  <a href="url"><img src="https://i.pinimg.com/originals/56/dd/4d/56dd4dc9c44936865315a59190c41cf1.jpg width="500" height="350""></a>
 
 
 
